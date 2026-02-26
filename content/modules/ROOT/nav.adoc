@@ -9,16 +9,6 @@
 ** xref:module-01-perf-scale-ts.adoc#cluster_scale[Scaling a Cluster by Adding a Node]
 ** xref:module-01-perf-scale-ts.adoc#load_aware[Load Aware Cluster Rebalancing]
 
-* xref:module-02-sec-comp.adoc[Security and Compliance]
-** xref:module-02-sec-comp.adoc#sec_and_comp[Scanning Infrastructure with the OpenShift Compliance Operator]
-** xref:module-02-sec-comp.adoc#node_remediate[Node Remediation with the OpenShift Compliance Operator]
-** xref:module-02-sec-comp.adoc#cluster_rbac[Configuring Role-based Access Control for Cluster Roles]
-
-* xref:module-03-adv-net-sec.adoc[Advanced Networking and Security]
-** xref:module-03-adv-net-sec.adoc#net_pol_egress[Configure Network Policies to Manage Cluster Egress]
-** xref:module-03-adv-net-sec.adoc#udn_projects[Configure UDN to Manage VM Traffic Between Projects]
-** xref:module-03-adv-net-sec.adoc#net_observ[Examining Network Traffic with the Network Observability Operator]
-
 * xref:module-04-virt-automation.adoc[Automation of Virtual Machines]
 ** xref:module-04-virt-automation.adoc#dynamic_inventory[Creating a Dynamic Inventory for OpenShift Virtual Machines]
 ** xref:module-04-virt-automation.adoc#vm_mgmt[Automated VM Management]
@@ -27,11 +17,23 @@
 *** xref:module-04-virt-automation.adoc#vm_mgmt_hp[Hot-Plugging CPU and Memory Resources]
 *** xref:module-04-virt-automation.adoc#vm_mgmt_backup[Backup and Restore Virtual Machines]
 
-* xref:module-05-virt-acm.adoc[Advanced Management of Virtual Machines]
-** xref:module-05-virt-acm.adoc#discover_cluster[Discover Your Cluster]
-** xref:module-05-virt-acm.adoc#explore_cluster[Explore Managed Cluster Resources]
-** xref:module-05-virt-acm.adoc#manage_vms[Manage VMs From RHACM]
+
+* xref:module-03-adv-net-sec.adoc[Advanced Networking and Security]
+** xref:module-03-adv-net-sec.adoc#net_pol_egress[Configure Network Policies to Manage Cluster Egress]
+** xref:module-03-adv-net-sec.adoc#udn_projects[Configure UDN to Manage VM Traffic Between Projects]
+** xref:module-03-adv-net-sec.adoc#net_observ[Examining Network Traffic with the Network Observability Operator]
 
 * xref:conclusion.adoc[Conclusion]
 ** xref:conclusion.adoc#key_takeaways[Key Takeaways]
 ** xref:conclusion.adoc#additional_info[Additional Information]
+
+* xref:additional-labs.adoc[Additional Labs]
+** xref:module-02-sec-comp.adoc[Security and Compliance]
+*** xref:module-02-sec-comp.adoc#sec_and_comp[Scanning Infrastructure with the OpenShift Compliance Operator]
+*** xref:module-02-sec-comp.adoc#node_remediate[Node Remediation with the OpenShift Compliance Operator]
+*** xref:module-02-sec-comp.adoc#cluster_rbac[Configuring Role-based Access Control for Cluster Roles]
+** xref:module-05-virt-acm.adoc[Advanced Management of Virtual Machines]
+*** xref:module-05-virt-acm.adoc#discover_cluster[Discover Your Cluster]
+*** xref:module-05-virt-acm.adoc#explore_cluster[Explore Managed Cluster Resources]
+*** xref:module-05-virt-acm.adoc#manage_vms[Manage VMs From RHACM]
+
