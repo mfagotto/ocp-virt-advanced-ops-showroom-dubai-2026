@@ -1,0 +1,7 @@
+= Welcome to {lab_name}!
+
+[%hardbreaks]
+
+== Additional Labs
+
+Navigate the menu on the left to access additional content.
